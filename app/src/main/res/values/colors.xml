@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorHijau">#008577</color>
+    <color name="colorHijauDark">#00574B</color>
+    <color name="colorPrimary">#cc9933</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#97480F</color>
+    <color name="ColorYellow">#FFF043</color>
+    <color name="brown">#9A8262</color>
+    <color name="kulit">#e8ca93</color>
+    <color name="langsat">#f0e2a8</color>
+    <color name="kuningpucat">#fff68f</color>
+</resources>
